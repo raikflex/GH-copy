@@ -1,0 +1,223 @@
+.sec8{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+  height: 400px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  padding-top: 10px ;
+  overflow: hidden;
+}
+.contfinal{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
+  height: 100%;
+}
+.fp{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  color: white;
+  text-align: center;
+  margin-bottom: -10px;
+}
+.fh{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  width: 570px;
+  color: grey;
+  text-align: center;
+}
+.fb{
+  display: flex;
+  flex-direction: row;
+  height: 200px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.fb1{
+  width: 250px;
+  height: 50px;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  font-family:Arial, Helvetica, sans-serif ;
+  font-weight: bold;
+  font-size: 18px;
+  margin-right: 5px;
+}
+.fb1:hover{
+  box-shadow: 1px 5px 9px 1px rgba(255, 255, 255, 0.739);
+}
+.fb2{
+  width: 300px;
+  height: 50px;
+  background-color: transparent;
+  border:none;
+  border-radius: 5px;
+  font-family:Arial, Helvetica, sans-serif ;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+}
+.fb2:hover{
+  border:  2px solid rgb(255, 255, 255);
+}
+.footer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  width: 99%;
+  height: 600px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  padding-top: 10px ;
+  background-color: #141b24;
+  overflow: hidden;
+}
+.totaltt{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+  width: 70%;
+  height: 80px;
+}
+.tcolor{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  margin-bottom: -10px;
+  color: rgb(164, 164, 164);
+}
+.tcolor::first-line{
+  margin-left: 15px;
+}
+.ghsus{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 82%;
+  height: 450px;
+  margin-left: 205px;
+  padding-top: 25px;
+}
+.contghsus{
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  height: 200px;
+  align-items: start;
+}
+.contghsust{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 400px;
+}
+.mf1{
+  height: 30px;
+  filter:invert(1) ;
+}
+.pp7{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:14px;
+  color: white;
+  margin-bottom: -5px;
+}
+.hh4{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:14px;
+  font-weight: 100 ;
+  color: rgb(170, 170, 170);
+  margin-bottom: 15px;
+}
+.bf1{
+  width: 105px;
+  height: 45px;
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+}
+.bf1:hover{
+  border-width: 3px;
+}
+.pt{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+  color: grey;
+}
+.pst{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+  color: grey;
+  margin-bottom: -1px;
+}
+.af1{
+  text-decoration: dashed;
+  color: rgb(0, 98, 255);
+}
+.af1:hover{
+  text-decoration: underline;
+}
+.pst:hover{
+  color: rgb(0, 98, 255);
+}
+.logosft{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 80px;
+  background-color: rgb(23, 23, 49);
+  margin-left: -20px;
+}
+.attext{
+  display: flex;
+  flex-direction: row;
+  width: 35%;
+  height: 100%;
+  align-items: center;
+  justify-content: space-between;
+
+}
+footer{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+.footert{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: grey;
+  margin-left: 10px;
+}
+.footert:hover{
+  color: rgb(0, 98, 255);
+}
+.logosimg{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 20%;
+  height: 100%;
+}
+.limg{
+  height: 18px;
+  margin-left: 10px;
+}

@@ -1,0 +1,189 @@
+.sec6{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  width: 90%;
+  height: 1050px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  padding-top: 10px ;
+  overflow: hidden;
+}
+.cmake{
+  display: flex;
+  flex-direction: column;
+  width: 99%;
+  height: 50%;
+  background-color: #0d1117;
+  border: 1px solid white;
+  border-radius: 10px;
+  overflow: hidden;
+  align-items: center;
+  background-image: radial-gradient(circle at left top, #0d1117 40%, rgba(0, 21, 255, 0.387));
+  margin-bottom: -450px;
+}
+.cmake1{
+  position: relative;
+  top: -57px;
+  display: flex;
+  flex-direction: column;
+  width: 99%;
+  height: 50%;
+  background-color: #0d1117;
+  border: 1px solid white;
+  border-radius: 10px;
+  overflow: hidden;
+  align-items: center;
+  transition: opacity 0.2s ease-in-out;
+
+}
+.cmake1:hover{
+  opacity: 0%;
+}
+.cmaket{
+  position: relative;
+  top: 50px;
+  left:-450px;
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  height: 60px;
+  overflow: hidden;
+}
+.pck{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color:grey;
+  margin-bottom: -10px;
+}
+.build{
+  position: relative;
+  top: 150px;
+  left: -240px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 400px;
+  height: 80px;
+  background-color: #fefeff5d;
+  border-radius: 10px;
+  border: none;
+}
+.mb1{
+  height: 20px;
+  margin-right: 10px  ;
+}
+.psb{
+  display: flex;
+  align-items: center;
+}
+.pb1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color:white;
+  font-weight: bold;
+  margin-right: 10px;
+}
+.clc{
+  position: relative;
+  top: 106px;
+  left: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80px;
+  height:6px;
+  background-color: rgba(255, 255, 255, 0.716);
+  z-index: 2;
+}
+.circles{
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  border-radius: 100px;
+  margin-right: -6px;
+  margin-left: -6px ;
+}
+.ql{
+  position: relative;
+  top: 65px;
+  left: 245px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items:center;
+  width: 400px;
+  height: 180px;
+  background-color: #fefeff5d;
+ 
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  overflow: hidden;
+  padding-top: 10px;
+}
+.qlt{
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: space-between;
+  width: 90%;
+  height: 50px;
+  margin-bottom: 10px;
+}
+.step{
+  position: relative;
+  top: -153px;
+  left: 85px  ;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  background-color: #fefeff5d;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px  ;
+  border-bottom: none;
+}
+.ghas{
+  display: flex;
+  flex-direction: row;
+  width: 99%;
+  height: 300px;
+  align-items: center;
+}
+.ghast{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+  width: 50%;
+  height: 100%;
+  padding-left: 50px;
+}
+.critical{
+  display: flex;
+  width: 50%;
+  height: 100%;
+}
+.recta{
+  position: relative;
+  top:-80px;
+  left: 80px;
+  width: 80%;
+  height: 85%;
+  border: 1px solid white;
+  border-radius: 10px;
+  background-image: url(https://github.githubassets.com/images/modules/site/home-campaign/illu-ghas-list.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.dyk3{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  height: 200px
+}

@@ -1,0 +1,128 @@
+.sec7{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  width: 90%;
+  height: 1350px;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  padding-top: 10px ;
+  overflow: hidden;
+}
+.scning{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 99%;
+  height: 40%;
+  background-color: #0d1117;
+  background-image: radial-gradient(circle at left top, #0d1117 40%, rgba(0, 4, 255, 0.326));
+  border: 1px solid white;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: -480px;
+}
+.scning1{
+  position: relative;
+  top: -62px ;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 99%;
+  height: 40%;
+  background-color: #0d1117;
+  border: 1px solid white;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: opacity .2s ease-in-out;
+}
+.scning1:hover{
+  opacity: 0%;
+}
+.scningt{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  height: 100%;
+  align-items: start;
+  justify-content: center;
+  padding-left: 20px;
+}
+.scningimg{
+  position: relative;
+  top: 23px;
+  left: 90px; 
+  display: flex;
+  width: 40%;
+  height: 90%;
+  align-items: end;
+  justify-content: end;
+  padding-left: 20px;
+  background-image: url(https://github.githubassets.com/images/modules/site/home-campaign/illu-secret-scanning.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.dcs{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 99%;
+  height: 45%;
+}
+.ghadcs{
+  display: flex;
+  flex-direction: column;
+  width: 570px;
+  height: 600px;
+  background-color: #0d1117;
+  border: 1px solid white;
+  background-image: radial-gradient(ellipse at left top, #20262d 45%,rgba(82, 7, 245, 0.378));
+  border-radius: 10px ;
+  padding-left: 20px;
+  overflow: hidden;
+}
+.ghadcs1{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 570px;
+  height: 600px;
+  background-color: #0d1117;
+  border: 1px solid white;
+  border-radius: 10px ;
+  padding-left: 20px;
+  overflow: hidden;
+  transition: opacity .2s ease-in-out;
+}
+.ghadcs1:hover{
+  opacity: 0%;
+}
+.ghadcs2{
+  display: flex;
+  flex-direction: column;
+  width: 570px;
+  height: 600px;
+  background-color: #0d1117;
+  border: 1px solid white;
+  background-image: radial-gradient(ellipse at left top, #20262d 45%,rgba(82, 7, 245, 0.378));
+  border-radius: 10px ;
+  padding-left: 20px;
+  overflow: hidden;
+}
+.ghadcs3{
+  position: absolute;
+  left: 650px;
+  display: flex;
+  flex-direction: column;
+  width: 570px;
+  height: 600px;
+  background-color: #0d1117;
+  border: 1px solid white;
+  border-radius: 10px ;
+  padding-left: 20px;
+  overflow: hidden;
+  transition: opacity .2s ease-in-out;
+}
+.ghadcs3:hover{
+  opacity: 0%;
+}
